@@ -19,7 +19,7 @@ int main(){
         printf("Welcome to the Liberty Books Inventory System. \nSelect an option to procced.\n");
         printf("1. Add New Book.\n");
         printf("2. Process a Sale.\n");
-        printf("3. Generate Low Stock Report.\n");
+        printf("3. Generate Low-Stock Report.\n");
         printf("4. Exit the Program.\n");
         printf("Enter Option\n");
         scanf("%d", &menu);
